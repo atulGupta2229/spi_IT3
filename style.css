@@ -1,0 +1,25 @@
+
+h1{
+    color: blue;
+}
+#head{
+    background-color: yellow;
+}
+#sub{
+    background-color: teal;
+}
+#k1{
+    background-color: red;
+}
+.same{
+    text-align: right;
+}
+h1, h2{
+    text-decoration: underline;
+}
+span[id=s1]{
+    background-color: pink;
+}
+p .s2{
+    font-size: 40px;
+}
